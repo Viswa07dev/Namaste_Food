@@ -6,6 +6,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)](https://reactrouter.com/)
 
+<div align="center">
+  <p>🚀 A modern food delivery platform powered by React.js and Redux</p>
+</div>
+
 ## 🎯 Project Vision
 
 Our food delivery app is designed with a user-first approach, focusing on:
