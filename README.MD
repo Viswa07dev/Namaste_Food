@@ -132,12 +132,6 @@ src/
   </a>
 </div>
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
 <div align="center">
   <p>⭐ Star this repo if you like what you see!</p>
   <p>Made with ❤️ by Viswa07dev</p>
